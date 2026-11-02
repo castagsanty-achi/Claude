@@ -3,7 +3,7 @@
 > Completar los campos marcados con **[PENDIENTE]** a medida que se definan.
 
 ## Empresa
-- **Nombre / marca:** [PENDIENTE: candidatos en `plan/nombres.md` (Santimarco, Martino Cercos)]
+- **Nombre / marca:** **Martino** (Mar-co + San-tino). [PENDIENTE: complemento (Rural, Agro, Campo o solo) y verificación en INPI]
 - **Quiénes somos:** emprendimiento familiar: Marco (papá) y Santino (hijo). Importan productos de China.
 - **Ubicación / zona de venta:** base en Mar del Plata (Buenos Aires). Venta **online** con envíos a todo el país. [PENDIENTE: logística de envíos]
 - **Etapa:** arrancando, todavía sin marca ni canales armados.

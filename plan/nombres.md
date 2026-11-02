@@ -21,3 +21,15 @@ Juego de palabras con **Mar**co + **Santi**no, y de paso con **Mar** del Plata.
 
 > Hasta registrar la marca en el INPI nadie puede garantizar que el nombre sea "100% legal". Lo de arriba es una
 > búsqueda preliminar.
+
+---
+
+## Elegido: **Martino** (2/11/2026)
+Falta definir el complemento. Variantes con el `.com` disponible al 2/11/2026:
+- **Martino Rural** (`martinorural.com`)
+- **Martino Agro** (`martinoagro.com`)
+- **Martino Campo** (`martinocampo.com`)
+- Martino a secas como marca, con un descriptor debajo del logo ("Alambrado eléctrico").
+
+En la búsqueda web no apareció ningún "Martino" en alambrado eléctrico ni insumos rurales en Argentina. Igual hay que
+hacer la búsqueda en el INPI (clases 9, 22, 6 y 35), porque Martino es un apellido común y puede haber registros.
