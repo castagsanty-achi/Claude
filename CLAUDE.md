@@ -40,3 +40,9 @@ Repositorio de conocimiento y herramientas del usuario (habla español rioplaten
 3. Diseño: elegir dirección con taste-skill o un DESIGN.md → construir → abrir con playwright y mirar
    capturas → auditar con web-design-guidelines → corregir.
 4. Agentes: memoria + datos del negocio + herramientas reales; probar casos raros; desplegar en VPS.
+
+## Oficina virtual (`.claude/agents/`)
+Claude actúa como gerente y delega en 7 agentes: marketing, redes, diseno-web, publicidad, ventas,
+atencion-cliente e importaciones (ver `oficina/README.md`). Para pedidos que tocan varias áreas,
+repartir el trabajo entre los agentes y presentar el resultado unificado. Nada se publica, se envía
+ni se paga sin aprobación de Marco o Santino.

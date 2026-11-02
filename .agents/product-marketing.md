@@ -3,9 +3,9 @@
 > Completar los campos marcados con **[PENDIENTE]** a medida que se definan.
 
 ## Empresa
-- **Nombre / marca:** [PENDIENTE]
-- **Quiénes somos:** emprendimiento familiar (padre e hijo) que importa productos de China.
-- **Ubicación / zona de venta:** Argentina. [PENDIENTE: provincia/ciudad base y alcance de envíos]
+- **Nombre / marca:** [PENDIENTE: candidatos en `plan/nombres.md` (Santimarco, Martino Cercos)]
+- **Quiénes somos:** emprendimiento familiar: Marco (papá) y Santino (hijo). Importan productos de China.
+- **Ubicación / zona de venta:** base en Mar del Plata (Buenos Aires). Venta **online** con envíos a todo el país. [PENDIENTE: logística de envíos]
 - **Etapa:** arrancando, todavía sin marca ni canales armados.
 
 ## Productos (rubro: alambrado eléctrico rural)
@@ -17,7 +17,7 @@
 | Aisladores | Aíslan el conductor del poste o del alambrado | [PENDIENTE: tipos (de rosca, de clavo, esquineros, para varilla)] |
 
 - **Precios:** [PENDIENTE: minorista / mayorista / por bulto]
-- **Modelo de venta:** [PENDIENTE: venta directa al productor, mayorista a agronomías/forrajerías o ambos]
+- **Modelo de venta:** ambos, con prioridad **mayorista** (agronomías, veterinarias rurales y revendedores). También minorista a particulares (productores, chacras, caballos).
 
 ## Clientes ideales
 1. **Productor ganadero** (cría, invernada, tambo): usa pastoreo rotativo o intensivo y necesita armar y mover potreros
