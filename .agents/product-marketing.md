@@ -3,7 +3,7 @@
 > Completar los campos marcados con **[PENDIENTE]** a medida que se definan.
 
 ## Empresa
-- **Nombre / marca:** **Martino** (Mar-co + San-tino). [PENDIENTE: complemento (Rural, Agro, Campo o solo) y verificación en INPI]
+- **Nombre / marca:** **AGRO MARTINO** (Mar-co + San-tino). Logo en `diseno/logo/`. [PENDIENTE: verificación en INPI y logo final]
 - **Quiénes somos:** emprendimiento familiar: Marco (papá) y Santino (hijo). Importan productos de China.
 - **Ubicación / zona de venta:** base en Mar del Plata (Buenos Aires). Venta **online** con envíos a todo el país. [PENDIENTE: logística de envíos]
 - **Etapa:** arrancando, todavía sin marca ni canales armados.
@@ -34,6 +34,10 @@
 ## Diferenciales (a validar)
 - Precio de importación directa.
 - [PENDIENTE: calidad comprobada, garantía, envíos a todo el país, asesoramiento para armar el cerco, venta por bulto]
+
+## Identidad visual (propuesta)
+- Verde campo `#1E3A2A`, amarillo eléctrico `#F2B705` (el de los carteles de "cerco electrificado"), crema `#F3EEE2` y madera `#6B4A2B`.
+- Tipografías: Archivo Black (marca), Oswald (bajadas), Archivo (textos).
 
 ## Voz de marca
 - Español rioplatense, con trato de vos y un tono campero, directo y de confianza, sin vueltas ni tecnicismos innecesarios.

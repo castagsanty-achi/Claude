@@ -33,3 +33,11 @@ Falta definir el complemento. Variantes con el `.com` disponible al 2/11/2026:
 
 En la búsqueda web no apareció ningún "Martino" en alambrado eléctrico ni insumos rurales en Argentina. Igual hay que
 hacer la búsqueda en el INPI (clases 9, 22, 6 y 35), porque Martino es un apellido común y puede haber registros.
+
+## Decisión: **AGRO MARTINO** (2/11/2026)
+- Se lee fácil y dice el rubro de entrada, pensado para un público de campo poco digital.
+- `agromartino.com` estaba disponible al 2/11/2026. Falta chequear `agromartino.com.ar` en nic.ar y `@agromartino` en
+  Instagram.
+- En la web no apareció ningún "Agro Martino" (solo "Agro Martin SL", una frutícola española de otro rubro).
+- INPI: no se pudo consultar desde la sesión de Claude (la red bloquea el sitio). Lo hacen ustedes en
+  portaltramites.inpi.gob.ar → Búsqueda de marcas → "AGRO MARTINO" y "MARTINO", clases 9, 22, 6 y 35.
