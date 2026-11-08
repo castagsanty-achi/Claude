@@ -2,6 +2,11 @@
 
 Repositorio de conocimiento y herramientas del usuario (habla español rioplatense; responder en español).
 
+## ⏸️ Estado actual (8/11/2026): EN PAUSA
+El producto todavía puede cambiar (el alambrado eléctrico no es definitivo). Hasta que Santino diga lo contrario:
+no crear logos, contenido, webs, campañas ni otros entregables. Solo responder consultas y ayudar con la
+configuración. Cuando se defina el producto, actualizar `.agents/product-marketing.md` y el plan antes de producir.
+
 ## Proyecto principal: empresa de alambrado eléctrico rural
 - El usuario y su papá importan de China hilo electroplástico, soga eléctrica, varillas y aisladores
   para vender en Argentina. Claude arma marca, WhatsApp, Instagram, web, contenido y publicidad.
